@@ -28,10 +28,10 @@ Get started with SkillsForge in just two commands:
 /plugin
 ```
 
-Not using Claude Code, or want something more universal? Install any skill using:-
+Not using Claude Code, or want something more universal? Install any skill using:
 
 ```bash
-npx skills rawveg/skillsforge-marketplace
+npx skills add rawveg/skillsforge-marketplace
 ```
 
 That's it! You now have access to all the skills in the SkillsForge collection.
@@ -40,7 +40,7 @@ That's it! You now have access to all the skills in the SkillsForge collection.
 
 ## 🎨 Available Skills
 
-SkillsForge currently offers **33 curated skills** and **1 hooks plugin** across focused categories. Only items included in `.claude-plugin/marketplace.json` are listed below.
+SkillsForge currently offers **34 curated skills** and **1 hooks plugin** across focused categories. Only items included in `.claude-plugin/marketplace.json` are listed below.
 
 ### 📝 Content & Publishing
 
@@ -94,7 +94,7 @@ SkillsForge currently offers **33 curated skills** and **1 hooks plugin** across
 | **[linode-api](./linode-api)** | Manage Linode resources via API. |
 | **[linode-cli](./linode-cli)** | Run Linode CLI operations. |
 | **[n8n](./n8n)** | Manage n8n resources via API. |
-| **[vastai-api](./vastai-api)** | Access GPU instances via the VastAI API. |\
+| **[vastai-api](./vastai-api)** | Access GPU instances via the VastAI API. |
 | **[vercel](./vercel)** | Manage deployments and resources via the Vercel API. |
 
 ### 📊 Payment Processing and Revenue
